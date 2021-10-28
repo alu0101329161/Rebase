@@ -1,1 +1,25 @@
 Poniendo a punto el gestor de interpretes de Ruby
+
+Respuesta a la pregunta 31:
+Existen 3 ramas
+	1)Local -master
+	2)Local -doc
+	3)Remota ghp03/master
+
+* commit e1b3659 (HEAD -> doc, ghp03/master, master)
+| Author: alu0101329161 <alu0101329161@ull.edu.es>
+| Date:   6 minutes ago
+| 
+|     Creado el fichero de respuestas
+| 
+* commit 22a9b82
+| Author: alu0101329161 <alu0101329161@ull.edu.es>
+| Date:   7 minutes ago
+| 
+|     Creando el fichero README.md
+| 
+* commit 09c77d3
+  Author: alu0101329161 <alu0101329161@ull.edu.es>
+  Date:   10 minutes ago
+  
+      Creando el fichero .gitignore

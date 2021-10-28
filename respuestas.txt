@@ -23,3 +23,38 @@ Existen 3 ramas
   Date:   10 minutes ago
   
       Creando el fichero .gitignore
+
+
+Respuesta pregunta 42:
+El HEAD se encuentra en doc (head->doc)
+
+
+* commit 686b0ff (master)
+| Author: alu0101329161 <alu0101329161@ull.edu.es>
+| Date:   57 seconds ago
+| 
+|     Creando Hola mundo en Ruby
+|   
+| * commit 4f30647 (HEAD -> doc)
+|/  Author: alu0101329161 <alu0101329161@ull.edu.es>
+|   Date:   4 minutes ago
+|   
+|       Grafo con la rama doc
+| 
+* commit e1b3659 (ghp03/master)
+| Author: alu0101329161 <alu0101329161@ull.edu.es>
+| Date:   12 minutes ago
+| 
+|     Creado el fichero de respuestas
+| 
+* commit 22a9b82
+| Author: alu0101329161 <alu0101329161@ull.edu.es>
+| Date:   13 minutes ago
+| 
+|     Creando el fichero README.md
+| 
+* commit 09c77d3
+  Author: alu0101329161 <alu0101329161@ull.edu.es>
+  Date:   16 minutes ago
+  
+      Creando el fichero .gitignore

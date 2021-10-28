@@ -97,3 +97,7 @@ Doc y masterapuntan al último commit
   Date:   21 minutes ago
   
       Creando el fichero .gitignore
+
+Respuesta a la pregunta 65:
+RVM es una herramienta de línea de comando que permite instalar, administrar y trabajar facilmente con múltiples entornor Ruby, desde intérpretes hasta conjuntos de gemas
+La versión que se ha instalado es la 1.29.12

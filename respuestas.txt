@@ -105,3 +105,7 @@ La versión que se ha instalado es la 1.29.12
 Respuesta a la pregunta 72:
 Cuando usamos el intérprete iterativo vamos viendo linea por linea que devuelve además de el puntero en este caso vale  nil.
 Cuando usamod el intérprete de Ruby se ejecuta todo de una y no va linea por linea.
+
+Respuesta a la pregunta 79:
+Cuando ejecutamos en el intérprete iterativo vamos linea por linea en cambio si usamos PRY en el punto del fichero que ponemos binding.pry se establece un punto de control que nos
+permite modificar el valor de x o hacer cualquier cosa, en el momento que pulsamos control + D se ejecutan las lineas que estaban debajo del punto de control.

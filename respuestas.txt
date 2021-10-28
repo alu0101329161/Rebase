@@ -58,3 +58,42 @@ El HEAD se encuentra en doc (head->doc)
   Date:   16 minutes ago
   
       Creando el fichero .gitignore
+
+Respuesta a la pregunta 49:
+Doc y masterapuntan al último commit
+
+* commit bc4cae8 (HEAD -> master, doc)
+| Author: alu0101329161 <alu0101329161@ull.edu.es>
+| Date:   2 minutes ago
+| 
+|     Grafo con Hello World en Ruby anadido
+| 
+* commit 359f873
+| Author: alu0101329161 <alu0101329161@ull.edu.es>
+| Date:   9 minutes ago
+| 
+|     Grafo con la rama doc
+| 
+* commit 686b0ff
+| Author: alu0101329161 <alu0101329161@ull.edu.es>
+| Date:   7 minutes ago
+| 
+|     Creando Hola mundo en Ruby
+| 
+* commit e1b3659 (ghp03/master)
+| Author: alu0101329161 <alu0101329161@ull.edu.es>
+| Date:   17 minutes ago
+| 
+|     Creado el fichero de respuestas
+| 
+* commit 22a9b82
+| Author: alu0101329161 <alu0101329161@ull.edu.es>
+| Date:   19 minutes ago
+| 
+|     Creando el fichero README.md
+| 
+* commit 09c77d3
+  Author: alu0101329161 <alu0101329161@ull.edu.es>
+  Date:   21 minutes ago
+  
+      Creando el fichero .gitignore
